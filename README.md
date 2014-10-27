@@ -6,6 +6,6 @@ Artefatos para auxiliar o uso de LaTeX para dissertações do Instituto de Pesqu
 install arial fonts
 ===================
 
-  $ wget -q http://tug.org/fonts/getnonfreefonts/install-getnonfreefonts
-  $ sudo texlua ./install-getnonfreefonts
-  $ getnonfreefonts arial-urw
+    $ wget -q http://tug.org/fonts/getnonfreefonts/install-getnonfreefonts
+    $ sudo texlua ./install-getnonfreefonts
+    $ getnonfreefonts arial-urw
